@@ -1,0 +1,32 @@
+.heading-bar {
+    height: 150px;
+    width: 100%;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.heading-center-image img {
+    /* display: flex; */
+    /* align-self: center; */
+    margin-top: 25px;
+    height: 250px;
+    width: auto;
+    border-radius: 100%;
+}
+
+.nav-left {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nav-right {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar-link {
+    margin: 0 40px;   
+}
